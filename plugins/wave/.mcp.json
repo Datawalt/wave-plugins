@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "wave": {
+      "type": "http",
+      "url": "https://mcp.datawalt.app/api/mcp/wave/handler",
+      "oauth": {
+        "callbackPort": 11434
+      }
+    }
+  }
+}
