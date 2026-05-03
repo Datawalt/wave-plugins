@@ -28,11 +28,3 @@ Los users de la organización ven el plugin en su Cowork y lo instalan a un clic
 /plugin marketplace add Datawalt/wave-plugins
 /plugin install wave@datawalt-plugins
 ```
-
-## Source
-
-El código fuente vive en [Datawalt/datawalt-app](https://github.com/Datawalt/datawalt-app) (privado), bajo `scripts/wave-dev-kit/`. Este repo solo aloja los releases empaquetados — no contiene historia ni source del kit.
-
-## Soporte
-
-Email: engineering@datawalt.cl
