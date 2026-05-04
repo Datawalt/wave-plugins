@@ -1,16 +1,24 @@
 {
   "name": "wave",
-  "version": "2.1.0",
-  "description": "Wave BI — pregunta a tus datos en lenguaje natural, descubre métricas, analiza tendencias y recibe recomendaciones accionables. Read-only.",
+  "displayName": "Wave — BI conversacional de Datawalt",
+  "version": "2.2.0",
+  "description": "Wave by Datawalt: pregúntale a tus datos en lenguaje natural. Métricas reales de tu empresa, comparaciones de períodos, tendencias y recomendaciones accionables. Solo lectura, listo en segundos.",
+  "icon": "icon.png",
   "author": {
     "name": "Datawalt",
     "url": "https://datawalt.cl"
   },
+  "homepage": "https://datawalt.cl/wave",
   "license": "UNLICENSED",
   "keywords": [
-    "bi",
-    "analytics",
     "wave",
-    "datawalt"
+    "bi",
+    "business-intelligence",
+    "semantic-layer",
+    "analytics",
+    "datawalt",
+    "natural-language",
+    "kpi",
+    "dashboards"
   ]
 }

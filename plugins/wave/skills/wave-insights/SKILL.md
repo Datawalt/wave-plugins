@@ -3,6 +3,7 @@ name: wave-insights
 description: Genera análisis comparativos sobre los datos del negocio: comparación entre periodos, top-N, tendencias, variaciones y detección de outliers. Úsalo cuando el usuario pida "comparar", "ver tendencia", "top 10", "qué cambió", "mejor/peor cliente/producto/vendedor", "análisis de X".
 metadata:
   mcp-server: wave-client
+  icon: icon.png
   version: 1.0.0
 ---
 

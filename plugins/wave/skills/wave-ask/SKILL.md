@@ -3,6 +3,7 @@ name: wave-ask
 description: Responde preguntas de negocio en lenguaje natural consultando los modelos de datos de Wave. Úsalo cuando el usuario pregunte "cuánto vendí", "cuántos clientes", "qué pasó con X métrica", o cualquier consulta puntual sobre sus datos.
 metadata:
   mcp-server: wave-client
+  icon: icon.png
   version: 1.0.0
 ---
 

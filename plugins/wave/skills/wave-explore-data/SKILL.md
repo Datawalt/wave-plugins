@@ -3,6 +3,7 @@ name: wave-explore-data
 description: Ayuda al usuario a descubrir qué datos, métricas y dashboards están disponibles en su empresa. Úsalo cuando el usuario pregunte "qué puedo consultar", "qué datos tengo", "qué métricas hay", "qué dashboards existen" o quiera explorar antes de preguntar.
 metadata:
   mcp-server: wave-client
+  icon: icon.png
   version: 1.0.0
 ---
 

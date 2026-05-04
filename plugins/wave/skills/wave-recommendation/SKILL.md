@@ -3,6 +3,7 @@ name: wave-recommendation
 description: Genera recomendaciones accionables para gerentes a partir del análisis de datos. Úsalo cuando el usuario pida "recomiéndame", "qué debería hacer", "dónde enfocar", "qué acciones tomar", "qué oportunidades hay".
 metadata:
   mcp-server: wave-client
+  icon: icon.png
   version: 1.0.0
 ---
 
