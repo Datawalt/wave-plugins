@@ -31,10 +31,10 @@ Wave es la capa de **inteligencia de negocio conversacional** de Datawalt. Este 
 
 | Skill | Para qué |
 |---|---|
-| **`wave-ask`** | Preguntas directas de negocio en lenguaje natural. |
+| **`wave-ask`** | Punto de entrada para conversación con tus datos. Tres modos según la pregunta: cerrado (un número puntual), comparativo (tendencias, top-N, variaciones, outliers) y prescriptivo (recomendaciones accionables priorizadas). |
 | **`wave-explore-data`** | Descubrir qué métricas, modelos y dashboards están disponibles. |
-| **`wave-insights`** | Análisis comparativos: tendencias, top-N, variaciones, outliers. |
-| **`wave-recommendation`** | Recomendaciones accionables basadas en tus datos. |
+
+> Post-ADR-0017 PR4 (mayo 2026): `wave-insights` y `wave-recommendation` fueron absorbidas como modos del system prompt de `wave-ask`. El plugin pasa de 4 a 2 skills.
 
 ## Autenticación
 
@@ -49,7 +49,7 @@ El plugin se conecta al servidor MCP de Wave en `https://mcp.datawalt.app` y aut
 Una vez instalado, valida:
 
 - `/mcp` debe listar el conector **Wave**.
-- `/skill` debe listar `wave-ask`, `wave-explore-data`, `wave-insights`, `wave-recommendation`.
+- `/skill` debe listar `wave-ask` y `wave-explore-data` (post-ADR-0017 PR4).
 
 ## Primera consulta
 
