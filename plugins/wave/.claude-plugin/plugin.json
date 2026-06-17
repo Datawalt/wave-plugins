@@ -1,7 +1,7 @@
 {
   "name": "wave",
   "displayName": "Wave — BI conversacional de Datawalt",
-  "version": "2.3.0",
+  "version": "2.4.1",
   "description": "Wave by Datawalt: pregúntale a tus datos en lenguaje natural. Métricas reales de tu empresa, comparaciones de períodos, tendencias y recomendaciones accionables. Solo lectura, listo en segundos.",
   "icon": "icon.png",
   "author": {
